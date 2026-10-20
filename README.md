@@ -12,4 +12,5 @@ Purpose
 This repository is created for the Git and GitHub hands-on activity.
 
 Git branching and merging practice for the midterm activity.
+Midterm source files repository demonstration completed.
 
