@@ -18,3 +18,5 @@ Midterm source files repository demonstration completed.
 
 - Lesson 2 source file: student_grade_analyzer.py
 
+- Lesson 3 source file: Flores_Jecelle_StudentGradeAnalyzer.py
+
