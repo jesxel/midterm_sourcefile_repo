@@ -16,3 +16,5 @@ Midterm source files repository demonstration completed.
 
 - Lesson 1 source file: student_grade_analyzer.py
 
+- Lesson 2 source file: student_grade_analyzer.py
+
